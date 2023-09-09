@@ -1,2 +1,2 @@
-. .usbipd_cmd
-. .can_plugins2_cmd
+. usbipd_setup.bash
+. can_plugins2_setup.bash
